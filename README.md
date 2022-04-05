@@ -1,7 +1,7 @@
 # Dharmateja_Portfolio
 Data Science Portfolio
 
-# [Project 1: Data Analytics for E- Gaming(Clash of clans)](https://github.com/dharmateja4444/Dharmateja_Portfolio/blob/main/Untitled.ipynb)
+# [Project 1: Data Analytics for E- Gaming(Clash of clans)](https://github.com/dharmateja4444/Data-Analytics-for-E--Gaming-Clash-of-clans-/blob/main/Clashofclans.ipynb)
 
 The method of reviewing, cleansing, converting, and modelling data with the aim 
 of finding valuable facts, informing results, and assisting decision-making is known 
