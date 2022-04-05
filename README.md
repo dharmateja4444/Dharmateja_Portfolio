@@ -1,17 +1,19 @@
 # Dharmateja_Portfolio
 Data Science Portfolio
 
-# Project 1: if you have any ideas, please feel free to share with me.
+# Project 1: Data Analytics for E- Gaming(Clash of clans)
 
-<h3>clash of clan war prediction</h3>
-
-clan war prediction using keras machine learning library.
-
-for this war prediction, I have collected datasets from the coc warlog.
-
-1st half dataset - testing.
-
-2nd half dataset - training
+The method of reviewing, cleansing, converting, and modelling data with the aim 
+of finding valuable facts, informing results, and assisting decision-making is known 
+as data analysis. Data analysis has many aspects and methods, encompassing a wide 
+range of strategies under various names and being used in a number of industries, 
+research, and social science domains. Data is king of today's business world.
+In this project Data analysis is done in following steps:
+1. Data warehouse
+2. Data pre-processing
+3. Implementation of model
+4. Visualisation of results
+5. Integration of model with real time data
 
 
 
