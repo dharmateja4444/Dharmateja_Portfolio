@@ -1,4 +1,4 @@
-# Dharmateja_Portfolio
+# Dharmateja
 Data Science Portfolio
 
 # [Project 1: Data Analytics for E- Gaming(Clash of clans)](https://github.com/dharmateja4444/Data-Analytics-for-E--Gaming-Clash-of-clans-/blob/main/Clashofclans.ipynb)
