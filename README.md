@@ -1,6 +1,6 @@
 Data Science Portfolio
 
-# [Project 1: Twitter Sentiment Analysis for cryptocurrency(Ethereum)](https://github.com/dharmateja4444/Data-Analytics-for-esports/blob/main/clash%20of%20clans.ipynb)
+# [Project 1: Twitter Sentiment Analysis for cryptocurrency(Ethereum)](https://github.com/dharmateja4444/Twittersentimentianalyis-/blob/main/Dashboard.ipynb)
 
  This is a follow-up to my previous post about my dissertation at the University of Leicester on the project Twitter sentiment analysis on #cryptocurrency. I have been very exciting to work on trending technology like cryptocurrency my selection in cryptocurrency is Ethereum and my major thing is Twitter which is known for its social media platform. On glance project deals with how Twitter influencers influence the price of a cryptocurrency. Where cryptocurrency prices are determined by supply and demand. #ethereum is a limited number of tokens they can`t be increased on an increase in demand. Example: There are ten blue apples for instance and so many buyers out there want to buy them because they are limited and taste different than others, then they bit it who pay highest they will get it, so prices go high. Similarly, vice versa if no wants to buy it prices go down. So, Twitter is a platform influencer creating the interest in people to invest in cryptocurrency.
  My project aims to find the sentiment of Twitter influencer tweets on cryptocurrency.
