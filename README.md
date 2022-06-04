@@ -11,7 +11,7 @@ I’m grateful to have the support of industry supervisor Seckin Tataroglu (CEO 
 In this project Data analysis is done in following steps:
 1. Data warehouse
 2. Data pre-processing
-3. Implementation of  deep learning models
+3. Implementation of  deep learning models(LSTM, BILSTM, XGBoostclassifier)
 4. Visualisation of results using panel dashboard
 5. Integration of model with azure cloud.
 
@@ -23,7 +23,7 @@ In this project Data analysis is done in following steps:
 1. Data warehouse
 2. Data pre-processing
 3. Exploratory data analysis
-4. Implementation of model
+4. Implementation of model(Randomforest)
 5. Visualisation of results
 
 
@@ -35,7 +35,7 @@ In this project Data analysis is done in following steps:
 1. Data warehouse
 2. Data pre-processing
 3. Exploratory data analysis
-4. Implementation of model
+4. Implementation of model(KNN)
 5. Visualisation of results
 6. Integration of model with real time data
 
