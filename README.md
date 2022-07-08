@@ -8,12 +8,55 @@ Data Science Portfolio
 
 I’m grateful to have the support of industry supervisor Seckin Tataroglu (CEO for Lambda BI), academic supervisor Sergei Petrovskii and DABI program director Andrew Morozov(Dr.), and my fellow teammates Surya Vamshi Manchukonda, Sanket Sontakke, Swetha Sri Pavuluri, and Avinash Rokkam on this wonderful journey.
 
-In this project Data analysis is done in following steps:
-1. Data warehouse
-2. Data pre-processing
-3. Implementation of  deep learning models(LSTM, BILSTM, XGBoostclassifier)
-4. Visualisation of results using panel dashboard
-5. Integration of model with azure cloud.
+Data Collection
+
+Twitter Tweets from Twiter API 
+Ethereum prices from yahoo finance
+
+Data set review & preparation
+Filter tweets with Data filter and mergeing twitter and ethereum prices into dataset
+Tokenization
+Steming
+
+Sentiment Analysis
+
+Find polarity
+Find subjectivity
+
+clustering 
+
+Kmeans Clustering
+
+Prepare data for Topic Modeling
+
+Create Corpus
+One Hot Codeing
+Embedding Matrix
+Normalization 
+
+Feature engineering
+
+Split Train, Test Data
+
+Model Creation
+
+LSTM Models layers 
+1.Embedding
+2.Dropout
+3.Lstm
+4.Dense
+
+Bi Directional Lstm model layers
+1.Embedding
+2.Dropout
+3.Lstm
+4.Dense
+
+Bert Model
+
+Visualization  
+
+DashBoard using panel 
 
 
 # [Project 2: Data Analytics for Clash Royale battles](https://github.com/dharmateja4444/Clash-Royale/blob/main/8V280L8VQ-clash-royale-da%20(1).csv)
