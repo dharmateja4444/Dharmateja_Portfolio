@@ -8,7 +8,7 @@ Data Science Portfolio
 
 I’m grateful to have the support of industry supervisor Seckin Tataroglu (CEO for Lambda BI), academic supervisor Sergei Petrovskii and DABI program director Andrew Morozov(Dr.), and my fellow teammates Surya Vamshi Manchukonda, Sanket Sontakke, Swetha Sri Pavuluri, and Avinash Rokkam on this wonderful journey.
 
-Data Collection
+&bull Data Collection
 
 Twitter Tweets from Twiter API 
 Ethereum prices from yahoo finance
