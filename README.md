@@ -51,9 +51,20 @@ I’m grateful to have the support of industry supervisor Seckin Tataroglu (CEO 
 
 • Visualization  
    ‣ DashBoard using panel 
+   
 
+# [Project 2: Data Analysis on Vehicle Insurance](https://github.com/dharmateja4444/Insurance/blob/main/vehicle-insurance-eda-and-boosting-models.ipynb)
 
-# [Project 2: Data Analytics for Clash Royale battles](https://github.com/dharmateja4444/Clash-Royale/blob/main/8V280L8VQ-clash-royale-da%20(1).csv)
+Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
+
+1. Data warehouse from kaggle datasets
+2. Data pre-processing
+3. Exploratory data analysis
+4. Implementation of model(Randomforest)
+5. Model evalution
+6. Visualisation of results
+
+# [Project 3: Data Analytics for Clash Royale battles](https://github.com/dharmateja4444/Clash-Royale/blob/main/8V280L8VQ-clash-royale-da%20(1).csv)
 
 This is a professional squad of people who compete against one other. Supercell developed and distributed Clash Royale, a free-to-play real-time strategy video game. This game combines features of the Tower Defense trading card game with a multiplayer online warfare arena. Clash Royale has gotten increasingly popular in recent years. The interface in Clash Royale games is fantastic, and you may play with humans instead of robots. Cooks, there's no need to wait for the last-second twist. They are constantly prepared to combat. It is possible to play with your buddies. Time You can also employ your own plan to surprise your opponents. Supercell used 3D modelling software and game programming to create this crash game. They compute information using the fast C++ programming language, and they employ the OpenGL graphics library to easily and quickly generate and integrate graphics.
 In this project Data analysis is done in following steps:
@@ -65,7 +76,7 @@ In this project Data analysis is done in following steps:
 
 
 
-# [Project 3: Data Analytics for E- Gaming(Clash of clans)](https://github.com/dharmateja4444/Data-Analytics-for-esports/blob/main/clash%20of%20clans.ipynb)
+# [Project 4: Data Analytics for E- Gaming(Clash of clans)](https://github.com/dharmateja4444/Data-Analytics-for-esports/blob/main/clash%20of%20clans.ipynb)
 
 Players in Clash of Clans will be divided into clans, which will be leveled up in clan leagues. In essence, a clan league is a fight between two clans. In clan league, each clan member must choose an opponent team to combat and earn up to three stars. We use prior data to examine a player's statistics and estimate if we can win or lose the game. If the player is predicted to lose the game, we will offer suggestions for improvement.
 In this project Data analysis is done in following steps:
@@ -78,7 +89,7 @@ In this project Data analysis is done in following steps:
 
 
 
-# [Project 4: Data Analytics for League of Legends](https://github.com/dharmateja4444/lol/blob/main/3.Machine%20Learning.ipynb)
+# [Project 5: Data Analytics for League of Legends](https://github.com/dharmateja4444/lol/blob/main/3.Machine%20Learning.ipynb)
 
 This is a multi-player online game in which 10 people compete in 5v5 battles. Predicting which side will win based on decisions a player can make before a match begins is the challenge I'm trying to tackle. Champion selections, summoner spells, and runes are all examples of this. There are now a number of programs that analyze post-match data to offer match statistics, estimate the optimal item combinations for a particular champion, and compute victory rates based on previous encounters. The idea is to transform this into a classification challenge using a data science technique. The goal is to leverage the player's prematch decisions as features.
 In this project Data analysis is done in following steps:
